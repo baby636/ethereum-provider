@@ -14,7 +14,7 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "mocha": "9.0.2",
-    "standard": "16.0.3"
+    "standard": "16.0.4"
   },
   "dependencies": {
     "events": "3.3.0"
